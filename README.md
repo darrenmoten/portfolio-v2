@@ -30,6 +30,7 @@ You can also give it any 'ol name and GitHub will host it using this pattern: `u
 
 ### Make yours live
 
+
 1. From your fork's page on GitHub, click the index.html link, then on the next page click Edit.
 2. Make changes to the HTML so that the site reflects your name and bio.
 8. At the bottom of the site, click the Commit button to save your changes.
